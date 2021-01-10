@@ -1,4 +1,4 @@
-# Activity-recog
+# Activity Recognition from Single Chest-Mounted Accelerometer
  I have used two approaches
  1- Using machine learning algorithms
  2- Using deep learing algorithms
